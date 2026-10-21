@@ -1,10 +1,10 @@
 {
-  "version": "0.3.12",
-  "tag": "v0.3.12",
-  "name": "0.3.12 Windows",
-  "body": "Godot 客户端：主页对照公开更新清单检查版本，确认后可下载并替换安装包。设置中可开关启动时检查更新。",
-  "zip_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/download/v0.3.12/TEH-TheEmptyHouse-windows.zip",
-  "page_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/tag/v0.3.12",
+  "version": "0.3.13",
+  "tag": "v0.3.13",
+  "name": "0.3.13 Windows",
+  "body": "",
+  "zip_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/download/v0.3.13/TEH-TheEmptyHouse-windows.zip",
+  "page_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/tag/v0.3.13",
   "prerelease": true,
-  "published_at": "2026-10-20T00:00:00+09:00"
+  "published_at": "2026-10-21T18:20:00+09:00"
 }
