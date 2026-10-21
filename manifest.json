@@ -1,10 +1,10 @@
 {
-  "version": "0.3.13",
-  "tag": "v0.3.13",
-  "name": "0.3.13 Windows",
-  "body": "思路更新公告改为展示上一版本，本版列出 0.3.12 的新增与更新思路。统一文案为耐力需求、获得耐力。登录界面玩家头像完整显示。",
-  "zip_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/download/v0.3.13/TEH-TheEmptyHouse-windows.zip",
-  "page_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/tag/v0.3.13",
+  "version": "0.3.14",
+  "tag": "v0.3.14",
+  "name": "0.3.14 Windows",
+  "body": "行为论派初始物品「沉默者的胸针」使先攻投掷1d3。未持有该物品时不投先攻骰。道德的初始伤害为0。权威引证改为清除对方所有流血，每清除1层执行一次坦诚。",
+  "zip_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/download/v0.3.14/TEH-TheEmptyHouse-windows.zip",
+  "page_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/tag/v0.3.14",
   "prerelease": true,
-  "published_at": "2026-10-21T18:20:00+09:00"
+  "published_at": "2026-10-22T01:00:00+09:00"
 }
