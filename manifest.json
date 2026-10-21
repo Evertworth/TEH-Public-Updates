@@ -2,7 +2,7 @@
   "version": "0.3.13",
   "tag": "v0.3.13",
   "name": "0.3.13 Windows",
-  "body": "",
+  "body": "思路更新公告改为展示上一版本，本版列出 0.3.12 的新增与更新思路。统一文案为耐力需求、获得耐力。登录界面玩家头像完整显示。",
   "zip_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/download/v0.3.13/TEH-TheEmptyHouse-windows.zip",
   "page_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/tag/v0.3.13",
   "prerelease": true,
