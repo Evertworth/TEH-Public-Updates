@@ -2,7 +2,7 @@
     "version":  "0.3.16",
     "tag":  "v0.3.16",
     "name":  "0.3.16 Windows",
-    "body":  "新增精神症状顶部提示与篝火治疗；地图火堆改为中后段生成且每层3至6个；新增「恶性思绪实体」执念蔓延行动；补注支持百分比与固定值伤害；敌对思路改为堆叠卡组全屏展开；调整事件出现区间。",
+    "body":  "新增精神症状顶部提示与篝火治疗；地图火堆改为中后段生成且每层3至6个；新增「恶性思绪实体」执念蔓延行动；补注支持百分比与固定值伤害；敌对思路改为堆叠卡组全屏展开；调整事件出现区间。修复 0.3.15 自动更新因更新包目录反斜杠导致的写入失败；0.3.16 更新包已改为标准路径。",
     "zip_url":  "https://github.com/Evertworth/TEH-Public-Updates/releases/download/v0.3.16/TEH-TheEmptyHouse-windows.zip",
     "page_url":  "https://github.com/Evertworth/TEH-Public-Updates/releases/tag/v0.3.16",
     "prerelease":  true,
