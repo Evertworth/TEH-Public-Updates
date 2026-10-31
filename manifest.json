@@ -1,10 +1,10 @@
 {
-  "version": "0.3.15",
-  "tag": "v0.3.15",
-  "name": "0.3.15 Windows",
-  "body": "新增「色差模式」设置：关闭后地图与图例改为青蓝色系。修复「恶劣杂音」「调式转换」的至多选牌与结果回填。修复「观点裁决」选择一种观点时同时触发另一种观点效果的问题。修正折射清除异常、转阶段眩晕的层数消耗。补注动画改为在补注写入时自动播放。调整「逃亡者」一阶段行动轴，增加高压行动。修复敌人回合重入与卡牌动画重复，避免玩家回合被吞。",
-  "zip_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/download/v0.3.15/TEH-TheEmptyHouse-windows.zip",
-  "page_url": "https://github.com/Evertworth/TEH-Public-Updates/releases/tag/v0.3.15",
-  "prerelease": true,
-  "published_at": "2026-10-25T16:10:00+09:00"
+    "version":  "0.3.16",
+    "tag":  "v0.3.16",
+    "name":  "0.3.16 Windows",
+    "body":  "新增精神症状顶部提示与篝火治疗；地图火堆改为中后段生成且每层3至6个；新增「恶性思绪实体」执念蔓延行动；补注支持百分比与固定值伤害；敌对思路改为堆叠卡组全屏展开；调整事件出现区间。",
+    "zip_url":  "https://github.com/Evertworth/TEH-Public-Updates/releases/download/v0.3.16/TEH-TheEmptyHouse-windows.zip",
+    "page_url":  "https://github.com/Evertworth/TEH-Public-Updates/releases/tag/v0.3.16",
+    "prerelease":  true,
+    "published_at":  "2026-11-01T01:30:00+09:00"
 }
